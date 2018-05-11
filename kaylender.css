@@ -1,0 +1,54 @@
+#calendario{height: 85%;position: absolute;left: 17%;width:81%;top:19%;float:right;right:0;border-style: solid;}
+#monthbar{background-color: Red;color: white;text-align: center;font-size: 24px; width: 98%;;font-family:sans-serif;}
+
+#calendario h2 {text-align: center;top:-3%;position:relative;font-family:sans-serif;}
+
+.weekdays{color: white;padding: 0px;text-align: center;top:-4%;position:relative;width:98%;font-family:"Lucida Console", Monaco, monospace;}
+#sun{width:12%;left:1%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#mon{width:12%;left:15%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#tue{width:12%;left:29%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#wed{width:12%;left:43%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#thu{width:12%;left:57%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#fri{width:12%;left:71%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#sat{width:12%;left:85%;position: absolute;background-color: black;border-style:solid;border-color: white;}
+#empty0{left:1%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+#empty1{left:15%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+#empty2{left:29%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+#empty3{left:43%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+#empty4{left:57%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+#empty5{left:71%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.blanks{top:34%;}
+.saturday{left:85%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.friday{left:71%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.thursday{left:57%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.wednesday{left:43%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.tuesday{left:29%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.monday{left:15%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.sunday{left:1%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+
+.Bsaturday{left:85%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.Bfriday{left:71%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.Bthursday{left:57%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.Bwednesday{left:43%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.Btuesday{left:29%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.Bmonday{left:15%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+.Bsunday{left:1%;position: absolute;background-color: black; color: white;width:12%;height:50px;border-style:solid;border-color: white;}
+
+.Psunday{left:1%;position: absolute;background-color: black; color: white;width:12%;height:250px;border-style:solid;border-color: white;}
+.Pfriday{left:71%;position: absolute;background-color: black; color: white;width:12%;height:250px;border-style:solid;border-color: white;}
+.Pthursday{left:57%;position: absolute;background-color: black; color: white;width:12%;height:250px;border-style:solid;border-color: white;}
+.Pwednesday{left:43%;position: absolute;background-color: black; color: white;width:12%;height:250px;border-style:solid;border-color: white;}
+.Ptuesday{left:29%;position: absolute;background-color: black; color: white;width:12%;height:250px;border-style:solid;border-color: white;}
+.Pmonday{left:15%;position: absolute;background-color: black; color: white;width:12%;height:250px;border-style:solid;border-color: white;}
+
+#buttonz{top: 50%;position: absolute;left: 40%;}
+
+.week1{top: 30%;position: absolute;font-family:sans-serif;}
+.week2{top: 40%;position: absolute;font-family:sans-serif;}
+.week3{top: 50%;position: absolute;font-family:sans-serif;}
+.week4{top: 60%;position: absolute;font-family:sans-serif;}
+.week5{top: 70%;position: absolute;font-family:sans-serif;}
+.week6{top: 80%;position: absolute;font-family:sans-serif;}
+
+.pickdays{margin: auto;position: relative;top:-2%;}
+.timepickers{margin: auto;position: relative;top:6%;}
